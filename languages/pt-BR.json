@@ -1,0 +1,11 @@
+{
+    "seshat": {
+        "archives": {
+            "title": "Arquivos de Seshat",
+            "newArchive": "Criar"
+        },
+        "create": {
+            "title": "Crie um novo arquivo"
+        }
+    }
+}

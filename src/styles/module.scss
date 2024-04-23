@@ -1,0 +1,23 @@
+@forward "colors";
+
+.application.seshat-archives-application {
+    min-width: 800px;
+    min-height: 700px;
+
+    .window-header {
+        border-bottom: none;
+    }
+
+    .window-content {
+        padding: 0;
+        flex: 1;
+        justify-content: flex-start;
+        [data-application-part='archives'] {
+            display: flex;
+            flex-direction: row;
+            height: 100%;
+            width: 100%;
+        }
+    }
+}
+

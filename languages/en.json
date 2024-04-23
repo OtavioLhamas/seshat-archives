@@ -1,0 +1,11 @@
+{
+    "seshat": {
+        "archives": {
+            "title": "Seshat's Archives",
+            "newArchive": "Create"
+        },
+        "create": {
+            "title": "Create a new archive"
+        }
+    }
+}
